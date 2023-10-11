@@ -58,13 +58,13 @@ a,
 .header_style2 .dropdown-menu > li > a:focus, 
 .header_style2 .dropdown-menu > li > a:hover, 
 .blog-info-box .share_article:hover ul li a:hover {
-	color:#fa2837;
-	fill: #fa2837;
+	color:darkred;
+	fill: darkred;
 }
 
 a:hover, a:focus, .btn-link:hover {
-	color:#ff0012;
-	fill: #ff0012;
+	color:darkred;
+	fill: darkred;
 }
 
 .btn, 
@@ -100,14 +100,14 @@ a:hover, a:focus, .btn-link:hover {
 .main_bg, 
 .slider .slider-handle, .slider .slider-selection, 
 .primary-bg {
-  background: #fa2837 none repeat scroll 0 0;
-  fill: #fa2837;
+  background: darkred none repeat scroll 0 0;
+  fill: darkred;
 }
 .btn:hover, .btn:focus, 
 .search_other:hover, 
 #other_info:hover {
-	background-color: #c60210;
-	fill: #fb4d59;
+	background-color: darkred;
+	fill: darkred;
 }
 
 .nav-tabs > li.active > a, 
@@ -124,24 +124,22 @@ blockquote,
 .navbar-default .navbar-toggle, 
 .owl-buttons div, 
 .about_info .icon_box {
-	border-color: #fa2837;
+	border-color: darkred;
 }
 
 .recent-tab .nav.nav-tabs li.active::after {
-	border-color: #fa2837 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+	border-color: darkred rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
 }
 .td_divider:after {
-	border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0 ) rgba(0, 0, 0, 0 ) #fa2837 ;
+	border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0 ) rgba(0, 0, 0, 0 ) darkred ;
 }
 
 .navbar-nav > li > .dropdown-menu li {
-  border-bottom: 1px solid #e21625;
+  border-bottom: 1px solid darkred;
 }
 
 @media (max-width:767px) {
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
-	color:#fa2837;	
+	color:darkred;	
 }
-
-
 }

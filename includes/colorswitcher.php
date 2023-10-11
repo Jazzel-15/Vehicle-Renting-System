@@ -7,7 +7,7 @@
                     <div class="predefined_styles">
                         <div class="skin-theme-switcher">
                             <h4>Color</h4>
-                            <a href="#" data-switchcolor="red" class="styleswitch" style="background-color:#de302f;"> </a>
+                            <a href="#" data-switchcolor="red" class="styleswitch" style="background-color:#8B0000;"> </a>
                             <a href="#" data-switchcolor="orange" class="styleswitch" style="background-color:#BF6900;"> </a>
                             <a href="#" data-switchcolor="blue" class="styleswitch" style="background-color:#00008b;"> </a>
                             <a href="#" data-switchcolor="pink" class="styleswitch" style="background-color:#FF2761;"> </a>
